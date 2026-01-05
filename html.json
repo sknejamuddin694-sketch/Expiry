@@ -13,7 +13,12 @@
       "top_title": "⚡ ELITE PREMIUM MOD ⚡",
       "image": "https://files.catbox.moe/bsf7g2.jpg",
       "bottom_title": "ESP • Aimbot • Anti-Ban",
-      "buttons"[],
+      "buttons": [
+        {
+          "text": "📢 Telegram",
+          "url": "https://t.me/ROCKY_BHAI787"
+        }
+      ],
       "download": {
         "text": "⬇ DOWNLOAD",
         "url": "https://t.me/ROCKY_BHAI787"
