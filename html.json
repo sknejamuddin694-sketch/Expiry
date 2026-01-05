@@ -1,22 +1,31 @@
 {
-  "photo": "https://files.catbox.moe/gbvopa.png",
-  "caption": "<b>𝙀𝙇",
-  "links": [
+  "music": "https://files.catbox.moe/4z6x0p.mp3",
+  "posts": [
     {
-      "text": "📺 YouTube",
-      "url": "https://t.me/c/1805966423/794"
+      "top_title": "🔥 ELITE MODS V6.1 🔥",
+      "image": "https://i.imgur.com/abc123.png",
+      "bottom_title": "Unlimited Money • No Ban",
+      "buttons": [
+        { "text": "📢 Telegram", "url": "https://t.me/EliteMods" },
+        { "text": "▶ YouTube", "url": "https://youtube.com/@GringoXP" }
+      ],
+      "download": {
+        "text": "⬇ DOWNLOAD",
+        "url": "https://mega.nz/mod1.apk"
+      }
     },
+
     {
-      "text": "💬 WhatsApp",
-      "url": "https://t.me/c/1805966423/794"
-    },
-    {
-      "text": "📢 Telegram",
-      "url": "https://t.me/c/1805966423/794"
+      "top_title": "⚡ PUBG PREMIUM MOD ⚡",
+      "image": "https://i.imgur.com/xyz456.png",
+      "bottom_title": "ESP • Aimbot • Anti-Ban",
+      "buttons": [
+        { "text": "📢 Telegram", "url": "https://t.me/PUBGMods" }
+      ],
+      "download": {
+        "text": "⬇ DOWNLOAD",
+        "url": "https://mega.nz/mod2.apk"
+      }
     }
-  ],
-  "download": {
-    "text": "📥 DOWNLOAD",
-    "url": "https://t.me/c/1805966423/794"
-  }
+  ]
 }
