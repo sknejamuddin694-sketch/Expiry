@@ -1,6 +1,7 @@
 {
   "music": "https://files.catbox.moe/wxkijq.mp3",
   "telegram": "https://t.me/ROCKY_BHAI787",
+  "theme": "theme1",
   "posts": [
     {
       "top_title": "【 𝐊 𝐀 𝐀 𝐋 𝐈 𝐗  ||  𝐆 𝐀 𝐍 𝐆 】",
@@ -54,5 +55,28 @@
         "url": "https://t.me/ROCKY_BHAI787"
       }
     }
-  ]
+  ],
+  "themes": {
+    "theme1": {
+      "background":"linear-gradient(270deg,#0b0014,#1b0033,#000814)",
+      "post_bg":"rgba(255,255,255,.08)",
+      "special_border":"gold",
+      "top_color":"#fff",
+      "bottom_color":"#f5d76e"
+    },
+    "theme2": {
+      "background":"linear-gradient(270deg,#1a0b2b,#400044,#2e0033)",
+      "post_bg":"rgba(0,0,0,.4)",
+      "special_border":"#ff00ff",
+      "top_color":"#ff66ff",
+      "bottom_color":"#ff99ff"
+    },
+    "theme3": {
+      "background":"linear-gradient(270deg,#001414,#003333,#004040)",
+      "post_bg":"rgba(255,255,255,.1)",
+      "special_border":"#00ffff",
+      "top_color":"#00ffff",
+      "bottom_color":"#88ffff"
+    }
+  }
 }
