@@ -2,25 +2,26 @@
   "music": "https://files.catbox.moe/wxkijq.mp3",
   "posts": [
     {
-      "top_title": " 【 𝐊 𝐀 𝐀 𝐋 𝐈 𝐗  ||  𝐆 𝐀 𝐍 𝐆 】 ",
+      "top_title": "【 𝐊 𝐀 𝐀 𝐋 𝐈 𝐗  ||  𝐆 𝐀 𝐍 𝐆 】",
       "image": "https://files.catbox.moe/w60z08.png",
       "bottom_title": "ＫΛΛＬＩＸ  ＡＩＭ  ＢＯＴ  ＰＲＩＭＵＭ  ＳＲＣ",
       "buttons": [
         {
           "text": " 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 ",
-          "url": "https://t.me/ROCKY_BHAI787"
+          "url": "#",
+          "disabled": true
         }
       ],
       "download": {
         "text": "𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼",
-        "url": "https://t.me/ROCKY_BHAI787"
+        "url": "#",
+        "disabled": true
       }
     },
-
     {
       "top_title": "⚡ ELITE PREMIUM MOD ⚡",
       "image": "https://files.catbox.moe/bsf7g2.jpg",
-      "bottom_title": "ESP • Aimbot • Anti-Ban"
+      "bottom_title": "ESP • Aimbot • Anti-Ban",
       "buttons": [
         {
           "text": "📢 Telegram",
@@ -28,11 +29,10 @@
         }
       ],
       "download": {
-        "text": "",
+        "text": "⬇ DOWNLOAD",
         "url": "https://t.me/ROCKY_BHAI787"
       }
     },
-
     {
       "top_title": "💎 VIP MOD MENU 💎",
       "image": "https://files.catbox.moe/bsf7g2.jpg",
@@ -48,7 +48,6 @@
         "url": "https://t.me/ROCKY_BHAI787"
       }
     },
-
     {
       "top_title": "🔥 ULTRA HACK 🔥",
       "image": "https://files.catbox.moe/bsf7g2.jpg",
