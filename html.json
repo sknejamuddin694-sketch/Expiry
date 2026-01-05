@@ -4,12 +4,17 @@
     {
       "top_title": " 【 𝐊 𝐀 𝐀 𝐋 𝐈 𝐗  ||  𝐆 𝐀 𝐍 𝐆 】 ",
       "image": "https://files.catbox.moe/w60z08.png",
-      "bottom_title": "ＫΛΛＬＩＸ ＰＲＩＭＵＭ  ＳＲＣ",
-      "buttons": 
+      "bottom_title": "ＫΛΛＬＩＸ  ＡＩＭ  ＢＯＴ  ＰＲＩＭＵＭ  ＳＲＣ",
+      "buttons": [
         {
           "text": " 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 ",
           "url": "https://t.me/ROCKY_BHAI787"
         }
+      ],
+      "download": {
+        "text": "𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼",
+        "url": "https://t.me/ROCKY_BHAI787"
+      }
     },
 
     {
@@ -17,13 +22,16 @@
       "image": "https://files.catbox.moe/bsf7g2.jpg",
       "bottom_title": "ESP • Aimbot • Anti-Ban",
       "buttons": [
-        
+        {
+          "text": "📢 Telegram",
+          "url": "https://t.me/ROCKY_BHAI787"
+        }
+      ],
       "download": {
         "text": "⬇ DOWNLOAD",
         "url": "https://t.me/ROCKY_BHAI787"
       }
-        
-
+    },
 
     {
       "top_title": "💎 VIP MOD MENU 💎",
