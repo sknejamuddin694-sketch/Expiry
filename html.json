@@ -1,30 +1,88 @@
 {
   "music": "https://files.catbox.moe/u48fqz.mp3",
   "posts": [
-    {
-      "top_title": "ELITE MODS ",
-      "image": "https://files.catbox.moe/bsf7g2.jpg",
-      "bottom_title": "Unlimited Money • No Ban",
-      "buttons": [
-        { "text": "📢 Telegram", "url": "t.me/ROCKY_BHAI787" },
-        { "text": "▶ YouTube", "url": "t.me/ROCKY_BHAI787" }
-      ],
-      "download": {
-        "text": "⬇ DOWNLOAD",
-        "url": "t.me/ROCKY_BHAI787"
-      }
-    },
-
+    
     {
       "top_title": "⚡ ELITE PREMIUM MOD ⚡",
       "image": "https://files.catbox.moe/bsf7g2.jpg",
       "bottom_title": "ESP • Aimbot • Anti-Ban",
       "buttons": [
-        { "text": "📢 Telegram", "url": "t.me/ROCKY_BHAI787" }
+        {
+          "text": "📢 Telegram",
+          "url": "https://t.me/ROCKY_BHAI787"
+        }
       ],
       "download": {
         "text": "⬇ DOWNLOAD",
-        "url": "t.me/ROCKY_BHAI787"
+        "url": "https://t.me/ROCKY_BHAI787"
+      }
+    }
+  ]
+}
+ {
+      "top_title": "⚡ ELITE PREMIUM MOD ⚡",
+      "image": "https://files.catbox.moe/bsf7g2.jpg",
+      "bottom_title": "ESP • Aimbot • Anti-Ban",
+      "buttons": [
+        {
+          "text": "📢 Telegram",
+          "url": "https://t.me/ROCKY_BHAI787"
+        }
+      ],
+      "download": {
+        "text": "⬇ DOWNLOAD",
+        "url": "https://t.me/ROCKY_BHAI787"
+      }
+    }
+  ]
+ }
+ {
+      "top_title": "⚡ ELITE PREMIUM MOD ⚡",
+      "image": "https://files.catbox.moe/bsf7g2.jpg",
+      "bottom_title": "ESP • Aimbot • Anti-Ban",
+      "buttons": [
+        {
+          "text": "📢 Telegram",
+          "url": "https://t.me/ROCKY_BHAI787"
+        }
+      ],
+      "download": {
+        "text": "⬇ DOWNLOAD",
+        "url": "https://t.me/ROCKY_BHAI787"
+      }
+    }
+  ]
+}
+ {
+      "top_title": "⚡ ELITE PREMIUM MOD ⚡",
+      "image": "https://files.catbox.moe/bsf7g2.jpg",
+      "bottom_title": "ESP • Aimbot • Anti-Ban",
+      "buttons": [
+        {
+          "text": "📢 Telegram",
+          "url": "https://t.me/ROCKY_BHAI787"
+        }
+      ],
+      "download": {
+        "text": "⬇ DOWNLOAD",
+        "url": "https://t.me/ROCKY_BHAI787"
+      }
+    }
+  ]
+}
+ {
+      "top_title": "⚡ ELITE PREMIUM MOD ⚡",
+      "image": "https://files.catbox.moe/bsf7g2.jpg",
+      "bottom_title": "ESP • Aimbot • Anti-Ban",
+      "buttons": [
+        {
+          "text": "📢 Telegram",
+          "url": "https://t.me/ROCKY_BHAI787"
+        }
+      ],
+      "download": {
+        "text": "⬇ DOWNLOAD",
+        "url": "https://t.me/ROCKY_BHAI787"
       }
     }
   ]
