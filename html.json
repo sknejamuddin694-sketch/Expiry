@@ -1,30 +1,30 @@
 {
-  "music": "https://files.catbox.moe/4z6x0p.mp3",
+  "music": "https://files.catbox.moe/u48fqz.mp3",
   "posts": [
     {
-      "top_title": "🔥 ELITE MODS V6.1 🔥",
-      "image": "https://i.imgur.com/abc123.png",
+      "top_title": "ELITE MODS ",
+      "image": "https://files.catbox.moe/bsf7g2.jpg",
       "bottom_title": "Unlimited Money • No Ban",
       "buttons": [
-        { "text": "📢 Telegram", "url": "https://t.me/EliteMods" },
-        { "text": "▶ YouTube", "url": "https://youtube.com/@GringoXP" }
+        { "text": "📢 Telegram", "url": "t.me/ROCKY_BHAI787" },
+        { "text": "▶ YouTube", "url": "t.me/ROCKY_BHAI787" }
       ],
       "download": {
         "text": "⬇ DOWNLOAD",
-        "url": "https://mega.nz/mod1.apk"
+        "url": "t.me/ROCKY_BHAI787"
       }
     },
 
     {
       "top_title": "⚡ PUBG PREMIUM MOD ⚡",
-      "image": "https://i.imgur.com/xyz456.png",
+      "image": "https://files.catbox.moe/bsf7g2.jpg",
       "bottom_title": "ESP • Aimbot • Anti-Ban",
       "buttons": [
-        { "text": "📢 Telegram", "url": "https://t.me/PUBGMods" }
+        { "text": "📢 Telegram", "url": "t.me/ROCKY_BHAI787" }
       ],
       "download": {
         "text": "⬇ DOWNLOAD",
-        "url": "https://mega.nz/mod2.apk"
+        "url": "t.me/ROCKY_BHAI787"
       }
     }
   ]
