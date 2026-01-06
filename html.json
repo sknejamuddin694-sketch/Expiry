@@ -1,8 +1,7 @@
-
 {
   "music": "https://files.catbox.moe/wxkijq.mp3",
   "telegram": "https://t.me/ROCKY_BHAI787",
-  "theme": "theme2",
+  "theme": "theme1",
   "posts": [
     {
       "top_title": "【 𝐊 𝐀 𝐀 𝐋 𝐈 𝐗  ||  𝐆 𝐀 𝐍 𝐆 】",
@@ -12,25 +11,9 @@
       "download": null
     },
     {
-      {
-  "top_title": "KAALIX GANG V1.0",
-  "image": "https://files.catbox.moe/t0ioc8.jpg",
-  "bottom_title": "⏳ 𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧: 1 𝐃𝐚𝐲\n---------------\n🔑 𝐊𝐞𝐲: kaalix-24-GmY5A\n---------------\n📱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬: 50\n---------------\n⏰ 𝐓𝐢𝐦𝐞: 24 𝐇𝐨𝐮𝐫𝐬",
-  "buttons": [
-    {
-      "text": "📢 Telegram",
-      "url": "https://t.me/ROCKY_BHAI787"
-    }
-      ],
-      "download": {
-        "text": "⬇ DOWNLOAD",
-        "url": "https://www.mediafire.com/file/aitk1y224az1fxs/KAALIX_GANG_V1.0_MODE_MENU_.apk/file"
-      }
-    },
-    {
-      "top_title": "BYPAS APK🔗",
-      "image": "https://files.catbox.moe/3tl5eh.png",
-      "bottom_title": "HOOK BYPASS APK<br>--------------------<br>40% LODING BYPASS APK<br>--------------------<br>LIB NAME - libkaalix.so",
+      "top_title": "⚡ BYPASS APK ⚡",
+      "image": "https://files.catbox.moe/bsf7g2.jpg",
+      "bottom_title": "ESP • Aimbot • Anti-Ban",
       "buttons": [
         {
           "text": "📢 Telegram",
@@ -39,31 +22,61 @@
       ],
       "download": {
         "text": "⬇ DOWNLOAD",
-        "url": "https://www.mediafire.com/file/6ogzgpwmltjfnpr/BYPASS_APK.apk.bak/file"
+        "url": "http://devuploads.com/6l8gj3xn1383"
+      }
+    },
+    {
+      "top_title": "💎 VIP MOD MENU 💎",
+      "image": "https://files.catbox.moe/bsf7g2.jpg",
+      "bottom_title": "No Root • Anti-Ban",
+      "buttons": [
+        {
+          "text": "📢 Telegram",
+          "url": "https://t.me/ROCKY_BHAI787"
+        }
+      ],
+      "download": {
+        "text": "⬇ DOWNLOAD",
+        "url": "https://t.me/ROCKY_BHAI787"
+      }
+    },
+    {
+      "top_title": "🔥 ULTRA HACK 🔥",
+      "image": "https://files.catbox.moe/bsf7g2.jpg",
+      "bottom_title": "Instant Kill • God Mode",
+      "buttons": [
+        {
+          "text": "📢 Telegram",
+          "url": "https://t.me/ROCKY_BHAI787"
+        }
+      ],
+      "download": {
+        "text": "⬇ DOWNLOAD",
+        "url": "https://t.me/ROCKY_BHAI787"
       }
     }
   ],
   "themes": {
     "theme1": {
-      "background": "linear-gradient(270deg,#0b0014,#1b0033,#000814)",
-      "post_bg": "rgba(255,255,255,.08)",
-      "special_border": "gold",
-      "top_color": "#fff",
-      "bottom_color": "#f5d76e"
+      "background":"linear-gradient(270deg,#0b0014,#1b0033,#000814)",
+      "post_bg":"rgba(255,255,255,.08)",
+      "special_border":"gold",
+      "top_color":"#fff",
+      "bottom_color":"#f5d76e"
     },
     "theme2": {
-      "background": "linear-gradient(270deg,#12001f,#2a0030,#1a0026)",
-      "post_bg": "rgba(20,0,30,0.55)",
-      "special_border": "#ff4dff",
-      "top_color": "#ff6bff",
-      "bottom_color": "#ff9df5"
-    },
+  "background": "linear-gradient(270deg,#12001f,#2a0030,#1a0026)",
+  "post_bg": "rgba(20,0,30,0.55)",
+  "special_border": "#ff4dff",
+  "top_color": "#ff6bff",
+  "bottom_color": "#ff9df5"
+},
     "theme3": {
-      "background": "linear-gradient(270deg,#001414,#003333,#004040)",
-      "post_bg": "rgba(255,255,255,.1)",
-      "special_border": "#00ffff",
-      "top_color": "#00ffff",
-      "bottom_color": "#88ffff"
+      "background":"linear-gradient(270deg,#001414,#003333,#004040)",
+      "post_bg":"rgba(255,255,255,.1)",
+      "special_border":"#00ffff",
+      "top_color":"#00ffff",
+      "bottom_color":"#88ffff"
     }
   }
 }
