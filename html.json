@@ -65,12 +65,12 @@
       "bottom_color":"#f5d76e"
     },
     "theme2": {
-      "background":"linear-gradient(270deg,#1a0b2b,#400044,#2e0033)",
-      "post_bg":"rgba(0,0,0,.4)",
-      "special_border":"#ff00ff",
-      "top_color":"#ff66ff",
-      "bottom_color":"#ff99ff"
-    },
+  "background": "linear-gradient(270deg,#12001f,#2a0030,#1a0026)",
+  "post_bg": "rgba(20,0,30,0.55)",
+  "special_border": "#ff4dff",
+  "top_color": "#ff6bff",
+  "bottom_color": "#ff9df5"
+},
     "theme3": {
       "background":"linear-gradient(270deg,#001414,#003333,#004040)",
       "post_bg":"rgba(255,255,255,.1)",
